@@ -226,6 +226,7 @@ dependencies:
   - pysocks=1.7.1=pyh09c184e_7
   - python=3.12.9=h3f84c4b_1_cpython
   - python-dateutil=2.9.0.post0=pyhff2d567_1
+  - python-duckdb=1.2.2=py312h275cf98_0
   - python-fastjsonschema=2.21.1=pyhd8ed1ab_0
   - python-json-logger=2.0.7=pyhd8ed1ab_0
   - python-tzdata=2025.2=pyhd8ed1ab_0
